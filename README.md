@@ -1,4 +1,4 @@
 # hello-world
-My first repository
+Hello guys,
 I am awesome !
 I am learning new great things...
